@@ -2,7 +2,7 @@
 
 Wonder Boy meets Mario meets Charlie the Unicorn. A single-file browser platformer demo, no dependencies.
 
-**[▶ Play it here](https://craighckby-stack.github.io/Wonder-Craig-Game-Demo/)**
+**[▶ Play it here](https://share.gemini.google/TxkRfvfjCF6N)**
 
 ## Controls
 Arrows / A D to move · Space to jump (tap again to double jump) · Z / X to throw axes · C / Shift for unicorn rush · P to pause · M for music. Touch buttons on mobile.
